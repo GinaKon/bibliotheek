@@ -1,0 +1,8 @@
+Flask~=3.0.3
+redis~=5.0.8
+python-dotenv~=1.0.1
+SQLAlchemy~=2.0.32
+flask_sqlalchemy
+flask_bcrypt
+pymysql
+gunicorn
